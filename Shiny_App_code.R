@@ -487,3 +487,4 @@ ui = fluidPage(
 options(shiny.port = 8100)  # when running locally
 shinyApp(ui = ui, server = server)
 
+
